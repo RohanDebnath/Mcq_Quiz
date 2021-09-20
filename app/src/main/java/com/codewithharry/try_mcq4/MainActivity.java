@@ -15,6 +15,7 @@ import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.JsonObjectRequest;
 import com.android.volley.toolbox.Volley;
+import com.google.gson.GsonBuilder;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -27,13 +28,12 @@ import java.util.List;
 public class MainActivity extends AppCompatActivity {
     String url = "https://raw.githubusercontent.com/HyperPritu/App-Development/main/mcq.json";
     RequestQueue requestQueue;
-
+    //Rohan ek chutiya hai
     Button button1, button2,button3, button4,next;
     TextView textView_question,Score_vi,high_score,NO_Q;
     ArrayList<Question>  questionitem = new ArrayList<>();
     int questionIndex=0;
     int correct=0,wrong=0,score=0;
-    //ArrayList<> arrayList_mcq = new ArrayList();
     private Pref pref ;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
