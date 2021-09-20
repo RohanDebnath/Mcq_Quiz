@@ -1,0 +1,68 @@
+{
+    "questions": [
+        {
+            "ques": " if (start == NULL)\n{\nstart=newptr;\n}",
+            "op1": "1. Gandu",
+            "op2": "2. 2 Rupee Human",
+            "op3": "3. Elephant",
+            "op4": "4. All of the above",
+            "correct": "4. All of the above"
+        },
+        {
+            "ques": "Rohan is a...",
+            "op1": "1. Topper",
+            "op2": "2. Noob",
+            "op3": "3. Mediocre",
+            "op4": "4. Illeterate",
+            "correct": "1. Topper"
+        },
+        {
+            "ques": "Sun rises from...",
+            "op1": "1. East",
+            "op2": "2. West",
+            "op3": "3. North",
+            "op4": "4. South",
+            "correct": "1. East"
+        },
+        {
+            "ques": "who is the topper?...",
+            "op1": "1. sao",
+            "op2": "2. Rohan",
+            "op3": "3. pritam/priu",
+            "op4": "4. all",
+            "correct": "4. all"
+        },
+        {
+            "ques": "who is the chutiya?...",
+            "op1": "1. sao",
+            "op2": "2. Rohan",
+            "op3": "3. pritam/soumik",
+            "op4": "4. all",
+            "correct": "4. all"
+        },
+        {
+            "ques": "who was the first president of india...",
+            "op1": "1. Dr Rajendra Prasad",
+            "op2": "2. B.c.Modi",
+            "op3": "3. K.c Mamta",
+            "op4": "4. Manmohan singh",
+            "correct": "1. Dr Rajendra Prasad"
+        },
+        {
+            "ques": "which is the smallest bone of the body ?...",
+            "op1": "1. Malleus",
+            "op2": "2. Incus",
+            "op3": "3. Stapes",
+            "op4": "4. Femur",
+            "correct": "3. Stapes"
+        },
+        {
+            "ques": "HTML means",
+            "op1": "1. HyperText Markup Language",
+            "op2": "2. Horizontal Text Markup Language",
+            "op3": "3. HyperText Makeup Language ",
+            "op4": "4. None of the above",
+            "correct": "1. HyperText Markup Language"
+        }
+    ]
+}
